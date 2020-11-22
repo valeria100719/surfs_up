@@ -12,6 +12,7 @@ Our results shown that there are some differences between June and December
 
 • As expected, the average temperature is higher in June. The average temperature in June is around 75 ° F while in December it is around 71 ° F.
 
+https://github.com/valeria100719/surfs_up/tree/main/Pics
 
 ## Discussion
 
